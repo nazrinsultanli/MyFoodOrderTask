@@ -1,0 +1,286 @@
+[
+    {
+        "category": "Burger",
+        "categoryImage": "burger",
+        "categoryType": [
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "burger",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "burger",
+                "foodPrice": 5.5
+            },
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "burger",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "burger",
+                "foodPrice": 5.5
+            },
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "burger",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "burger",
+                "foodPrice": 5.5
+            },
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "burger",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "burger",
+                "foodPrice": 5.5
+            },
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "burger",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "burger",
+                "foodPrice": 5.5
+            },
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "burger",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "cheeseBurger.jpg",
+                "foodPrice": 5.5
+            },
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "bigFootBurger.jpg",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "cheeseBurger.jpg",
+                "foodPrice": 5.5
+            },
+            {
+                "foodName": "BigFoot Burger",
+                "foodDescription": "AAAAAA",
+                "foodImage": "bigFootBurger.jpg",
+                "foodPrice": 10.5
+            },
+            {
+                "foodName": "Cheese Burger",
+                "foodDescription": "Classic cheeseburger with cheddar cheese.",
+                "foodImage": "cheeseBurger.jpg",
+                "foodPrice": 5.5
+            }
+        ]
+    },
+    {
+        "category": "Pizza",
+        "categoryImage": "pizza",
+        "categoryType": [
+            {
+                "foodName": "Margherita Pizza",
+                "foodDescription": "Traditional margherita pizza with tomato sauce and mozzarella cheese.",
+                "foodImage": "pizza",
+                "foodPrice": 8.99
+            },
+            {
+                "foodName": "Pepperoni Pizza",
+                "foodDescription": "Classic pepperoni pizza with spicy pepperoni slices.",
+                "foodImage": "pizza",
+                "foodPrice": 9.99
+            },
+            {
+                "foodName": "Margherita Pizza",
+                "foodDescription": "Traditional margherita pizza with tomato sauce and mozzarella cheese.",
+                "foodImage": "pizza",
+                "foodPrice": 8.99
+            },
+            {
+                "foodName": "Pepperoni Pizza",
+                "foodDescription": "Classic pepperoni pizza with spicy pepperoni slices.",
+                "foodImage": "pizza",
+                "foodPrice": 9.99
+            },
+            {
+                "foodName": "Margherita Pizza",
+                "foodDescription": "Traditional margherita pizza with tomato sauce and mozzarella cheese.",
+                "foodImage": "pizza",
+                "foodPrice": 8.99
+            },
+            {
+                "foodName": "Pepperoni Pizza",
+                "foodDescription": "Classic pepperoni pizza with spicy pepperoni slices.",
+                "foodImage": "pepperoniPizza.jpg",
+                "foodPrice": 9.99
+            },
+            {
+                "foodName": "Margherita Pizza",
+                "foodDescription": "Traditional margherita pizza with tomato sauce and mozzarella cheese.",
+                "foodImage": "margheritaPizza.jpg",
+                "foodPrice": 8.99
+            },
+            {
+                "foodName": "Pepperoni Pizza",
+                "foodDescription": "Classic pepperoni pizza with spicy pepperoni slices.",
+                "foodImage": "pepperoniPizza.jpg",
+                "foodPrice": 9.99
+            },
+            {
+                "foodName": "Margherita Pizza",
+                "foodDescription": "Traditional margherita pizza with tomato sauce and mozzarella cheese.",
+                "foodImage": "margheritaPizza.jpg",
+                "foodPrice": 8.99
+            },
+            {
+                "foodName": "Pepperoni Pizza",
+                "foodDescription": "Classic pepperoni pizza with spicy pepperoni slices.",
+                "foodImage": "pepperoniPizza.jpg",
+                "foodPrice": 9.99
+            },
+            {
+                "foodName": "Margherita Pizza",
+                "foodDescription": "Traditional margherita pizza with tomato sauce and mozzarella cheese.",
+                "foodImage": "margheritaPizza.jpg",
+                "foodPrice": 8.99
+            },
+            {
+                "foodName": "Pepperoni Pizza",
+                "foodDescription": "Classic pepperoni pizza with spicy pepperoni slices.",
+                "foodImage": "pepperoniPizza.jpg",
+                "foodPrice": 9.99
+            },
+            {
+                "foodName": "Margherita Pizza",
+                "foodDescription": "Traditional margherita pizza with tomato sauce and mozzarella cheese.",
+                "foodImage": "margheritaPizza.jpg",
+                "foodPrice": 8.99
+            },
+            {
+                "foodName": "Pepperoni Pizza",
+                "foodDescription": "Classic pepperoni pizza with spicy pepperoni slices.",
+                "foodImage": "pepperoniPizza.jpg",
+                "foodPrice": 9.99
+            }
+            
+        ]
+    },
+    {
+        "category": "Pasta",
+        "categoryImage": "pasta",
+        "categoryType": [
+            {
+                "foodName": "Spaghetti Bolognese",
+                "foodDescription": "Spaghetti pasta served with rich Bolognese sauce.",
+                "foodImage": "pasta",
+                "foodPrice": 12.5
+            },
+            {
+                "foodName": "Alfredo Pasta",
+                "foodDescription": "Creamy Alfredo pasta with parmesan cheese.",
+                "foodImage": "pasta",
+                "foodPrice": 11.99
+            },
+            {
+                "foodName": "Spaghetti Bolognese",
+                "foodDescription": "Spaghetti pasta served with rich Bolognese sauce.",
+                "foodImage": "pasta",
+                "foodPrice": 12.5
+            },
+            {
+                "foodName": "Alfredo Pasta",
+                "foodDescription": "Creamy Alfredo pasta with parmesan cheese.",
+                "foodImage": "pasta",
+                "foodPrice": 11.99
+            },
+            {
+                "foodName": "Spaghetti Bolognese",
+                "foodDescription": "Spaghetti pasta served with rich Bolognese sauce.",
+                "foodImage": "pasta",
+                "foodPrice": 12.5
+            },
+            {
+                "foodName": "Alfredo Pasta",
+                "foodDescription": "Creamy Alfredo pasta with parmesan cheese.",
+                "foodImage": "alfredoPasta.jpg",
+                "foodPrice": 11.99
+            },
+            {
+                "foodName": "Spaghetti Bolognese",
+                "foodDescription": "Spaghetti pasta served with rich Bolognese sauce.",
+                "foodImage": "spaghettiBolognese.jpg",
+                "foodPrice": 12.5
+            },
+            {
+                "foodName": "Alfredo Pasta",
+                "foodDescription": "Creamy Alfredo pasta with parmesan cheese.",
+                "foodImage": "alfredoPasta.jpg",
+                "foodPrice": 11.99
+            },
+            {
+                "foodName": "Spaghetti Bolognese",
+                "foodDescription": "Spaghetti pasta served with rich Bolognese sauce.",
+                "foodImage": "spaghettiBolognese.jpg",
+                "foodPrice": 12.5
+            },
+            {
+                "foodName": "Alfredo Pasta",
+                "foodDescription": "Creamy Alfredo pasta with parmesan cheese.",
+                "foodImage": "alfredoPasta.jpg",
+                "foodPrice": 11.99
+            },
+            {
+                "foodName": "Spaghetti Bolognese",
+                "foodDescription": "Spaghetti pasta served with rich Bolognese sauce.",
+                "foodImage": "spaghettiBolognese.jpg",
+                "foodPrice": 12.5
+            },
+            {
+                "foodName": "Alfredo Pasta",
+                "foodDescription": "Creamy Alfredo pasta with parmesan cheese.",
+                "foodImage": "alfredoPasta.jpg",
+                "foodPrice": 11.99
+            },
+            {
+                "foodName": "Spaghetti Bolognese",
+                "foodDescription": "Spaghetti pasta served with rich Bolognese sauce.",
+                "foodImage": "spaghettiBolognese.jpg",
+                "foodPrice": 12.5
+            },
+            {
+                "foodName": "Alfredo Pasta",
+                "foodDescription": "Creamy Alfredo pasta with parmesan cheese.",
+                "foodImage": "alfredoPasta.jpg",
+                "foodPrice": 11.99
+            }
+     
+        ]
+    }
+]
